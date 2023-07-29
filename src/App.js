@@ -9,12 +9,15 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a href="https://github.com/JhakaasAbhishek/PLAN-WITH-WEATHER">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+        <a
+          target="_blank"
+          href="https://www.linkedin.com/in/abhishek-verma-1227b3216/"
+        >
+          Abhishek Verma
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
