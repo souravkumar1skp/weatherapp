@@ -106,6 +106,7 @@ class Weather extends React.Component {
       `${apiKeys.base}weather?lat=${lat}&lon=${lon}&units=metric&APPID=${apiKeys.key}`
     );
     const data = await api_call.json();
+    console.log(data);
     this.setState({
       lat: lat,
       lon: lon,
